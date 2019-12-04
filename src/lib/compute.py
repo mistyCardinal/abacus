@@ -16,3 +16,5 @@ class Compute:
 		
 	def multiply(self):
 		pass
+		
+	#some random change
