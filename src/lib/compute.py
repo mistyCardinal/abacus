@@ -6,7 +6,7 @@ class Compute:
 		self.operands = operands
 		
 	def add(self):
-		pass
+		addition = 0
 		
 	def subtract(self):
 		difference = 0
