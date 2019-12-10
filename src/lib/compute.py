@@ -6,7 +6,7 @@ class Compute:
 		self.operands = operands
 		
 	def add(self):
-		tryagain = 0 # stuff 3
+		addition = 0
 		
 	def subtract(self):
 		difference = 0
@@ -18,13 +18,13 @@ class Compute:
 		pass
 		
 	def multiply(self):
-	   product = 0 
+	   product = 0
        if self.operands is None
           return
        print(product)
 		
-	#another random change ft2 3
+	#another random change ft2
 	
-	# change this 3
+	# change this
 	
-	# and also now ft3 3
+	# and also now ft3
