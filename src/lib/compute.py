@@ -16,12 +16,16 @@ class Compute:
 		
 	def divide(self):
 		pass
-		
+        def exponent(self):
+            num_exponent = self.operands[0] ** self.operands[1]
+            print(num_exponent)
+
 	def multiply(self):
 	   product = 0
        if self.operands is None
           return
        print(product)
+
 		
 	#another random change ft2
 	
