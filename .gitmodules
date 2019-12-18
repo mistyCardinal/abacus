@@ -1,0 +1,3 @@
+[submodule "builds/scripts"]
+	path = builds/scripts
+	url = git@github.com:mistyCardinal/abacus-scripts.git
